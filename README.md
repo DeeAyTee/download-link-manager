@@ -1,2 +1,2 @@
 # download-link-manager
-Chia sẽ file và thêm aff vào.
+Quản lý link tải về với trang đếm ngược, quảng cáo và thống kê
